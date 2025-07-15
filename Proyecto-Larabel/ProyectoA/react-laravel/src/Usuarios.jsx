@@ -15,7 +15,7 @@ function Usuarios() {
 
   return (
     <div>
-      <h1>Lista de Usuarios Completa</h1>
+      <h1>Lista de Usuarios </h1>
       <table border="1" cellPadding="5">
         <thead>
           <tr>
